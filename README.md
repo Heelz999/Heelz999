@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heelz999
-- 👀 I’m interested in Front End Web Development 
-- 🌱 I’m currently into Front End Web Devey
-- 💞️ I’m looking to collaborate on request based on Front End Web
+- 👀 I’m interested in Front End Web Development and FullStack Web Development
+- 🌱 I’m currently into Front End Web Development and FullStack Web Development
+- 💞️ I’m looking to collaborate on request based on Front End Web and FullStack Web
 - 📫 How to reach me 
 
 <!---
